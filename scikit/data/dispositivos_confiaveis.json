@@ -1,0 +1,73 @@
+[
+  {
+    "mac": "50:91:E3:1F:FE:24",
+    "nome": "Roteador",
+    "hostname": "roteador",
+    "vendor": "TP Link"
+  },
+  {
+    "mac": "30:83:98:88:AE:B9",
+    "nome": "Smart Controle Universal",
+    "hostname": "Controle-universal",
+    "vendor": "Positivo"
+  },
+  {
+    "mac": "B8:27:EB:29:C4:A6",
+    "nome": "Raspberry",
+    "hostname": "rasp",
+    "vendor": "Raspberry Pi Foundation"
+  },
+  {
+    "mac": "D8:BE:65:0E:EF:34",
+    "nome": "Fire Stick",
+    "hostname": "fire-stick",
+    "vendor": "Amazon Technologies"
+  },
+  {
+    "mac": "B4:B7:42:88:35:38",
+    "nome": "Alexa Sala",
+    "hostname": "alexa-sala",
+    "vendor": "Amazon Technologies"
+  },
+  {
+    "mac": "FC:67:1F:A4:FB:18",
+    "nome": "Lampada Sala",
+    "hostname": "lampada-sala",
+    "vendor": "Positivo"
+  },
+  {
+    "mac": "FC:67:1F:A4:FD:41",
+    "nome": "Lampada Cozinha",
+    "hostname": "lampada-cozinha",
+    "vendor": "Positivo"
+  },
+  {
+    "mac": "18:69:D8:AA:48:70",
+    "nome": "Lampada Quarto",
+    "hostname": "lampada-quarto",
+    "vendor": "Positivo"
+  },
+  {
+    "mac": "90:A8:22:A7:E5:CE",
+    "nome": "Alexa Quarto",
+    "hostname": "alexa-quarto",
+    "vendor": "Amazon Technologies"
+  },
+  {
+    "mac": "F4:8E:38:FE:2B:46",
+    "nome": "PC MATHEUS",
+    "hostname": "desk-matheus",
+    "vendor": "Dell"
+  },
+  {
+    "mac": "D0:94:66:CA:56:BC",
+    "nome": "Umbrel",
+    "hostname": "umbrel",
+    "vendor": "Dell"
+  },
+  { "mac": "50:02:91:00:35:C8",
+    "nome": "Monitores",
+    "hostname": "Tomada Inteligente",
+    "vendor": "Positivo"
+  }
+]

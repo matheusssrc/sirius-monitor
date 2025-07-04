@@ -1,0 +1,122 @@
+[
+    {
+        "host": "Zabbix server",
+        "uptime": null,
+        "ping": 0.0,
+        "latencia": 0.0001,
+        "perda": 0.0,
+        "timestamp": "2025-07-04 07:58:40"
+    },
+    {
+        "host": "192.168.1.100",
+        "uptime": null,
+        "ping": 0.0,
+        "latencia": 0.0071,
+        "perda": 0.0,
+        "timestamp": "2025-07-04 07:58:40"
+    },
+    {
+        "host": "192.168.1.101",
+        "uptime": null,
+        "ping": 0.0,
+        "latencia": 0.0067,
+        "perda": 0.0,
+        "timestamp": "2025-07-04 07:58:40"
+    },
+    {
+        "host": "192.168.1.102",
+        "uptime": null,
+        "ping": 0.0,
+        "latencia": 0.1184,
+        "perda": 0.0,
+        "timestamp": "2025-07-04 07:58:40"
+    },
+    {
+        "host": "192.168.1.107",
+        "uptime": null,
+        "ping": 0.0,
+        "latencia": 0.0502,
+        "perda": 0.0,
+        "timestamp": "2025-07-04 07:58:40"
+    },
+    {
+        "host": "192.168.1.108",
+        "uptime": null,
+        "ping": 0.0,
+        "latencia": 0.0581,
+        "perda": 0.0,
+        "timestamp": "2025-07-04 07:58:40"
+    },
+    {
+        "host": "192.168.1.109",
+        "uptime": null,
+        "ping": 0.0,
+        "latencia": 0.0558,
+        "perda": 0.0,
+        "timestamp": "2025-07-04 07:58:40"
+    },
+    {
+        "host": "192.168.1.110",
+        "uptime": null,
+        "ping": 0.0,
+        "latencia": 0.0582,
+        "perda": 0.0,
+        "timestamp": "2025-07-04 07:58:40"
+    },
+    {
+        "host": "192.168.1.111",
+        "uptime": null,
+        "ping": 0.0,
+        "latencia": 0.0151,
+        "perda": 0.0,
+        "timestamp": "2025-07-04 07:58:41"
+    },
+    {
+        "host": "192.168.1.112",
+        "uptime": null,
+        "ping": 0.0,
+        "latencia": 0.0001,
+        "perda": 0.0,
+        "timestamp": "2025-07-04 07:58:41"
+    },
+    {
+        "host": "192.168.1.115",
+        "uptime": null,
+        "ping": 100.0,
+        "latencia": 0.0,
+        "perda": 100.0,
+        "timestamp": "2025-07-04 07:58:41"
+    },
+    {
+        "host": "192.168.1.119",
+        "uptime": null,
+        "ping": 0.0,
+        "latencia": 0.0005,
+        "perda": 0.0,
+        "timestamp": "2025-07-04 07:58:41"
+    },
+    {
+        "host": "192.168.1.1",
+        "uptime": null,
+        "ping": 0.0,
+        "latencia": 0.0005,
+        "perda": 0.0,
+        "timestamp": "2025-07-04 07:58:41"
+    },
+    {
+        "host": "192.168.1.103",
+        "uptime": null,
+        "ping": 100.0,
+        "latencia": 0.0,
+        "perda": 100.0,
+        "timestamp": "2025-07-04 07:58:41"
+    },
+    {
+        "host": "Roteador",
+        "uptime": 0,
+        "ping": 0.0,
+        "latencia": 0.0008,
+        "perda": 0.0,
+        "timestamp": "2025-07-04 07:58:41"
+    }
+]
